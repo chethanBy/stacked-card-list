@@ -37,7 +37,7 @@ body {
   flex-direction: column;
   position: relative;
   height: 350px;
-  width: 400px; /* will have 400px max and cann shrink upto 250px*/
+  width: 300px; /* will have 400px max and cann shrink upto 250px*/
   min-width: 250px;
   padding: 1.5rem;
   border-radius: 16px;
@@ -48,7 +48,7 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-1rem);
+  transform: rotate(10deg);
 }
 /* sibling combinator */
 .card:hover ~ .card {
