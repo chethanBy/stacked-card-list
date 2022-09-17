@@ -7,6 +7,11 @@ body {
   color: white;
   font-family: "DM Mono", monospace;
 }
+.flex-container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
 
 .card-list {
   display: flex;
