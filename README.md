@@ -1,5 +1,5 @@
 
-# Project Title
+# Stacked Card List
 
 stacked-card-list inspired by https://css-tricks.com/
 
