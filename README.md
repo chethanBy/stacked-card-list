@@ -1,3 +1,26 @@
+
+# Project Title
+
 stacked-card-list inspired by https://css-tricks.com/
 
-Used vanila html and css
+This mini project helpmed me understand the basics of css transform and transition which enabled me to create fluid animations for future projects.
+
+
+
+## Tech Stack
+
+**Client:** HTML, CSS3, Javascript
+
+
+
+
+## Demo
+![Alt Text](./video.gif)
+
+
+
+## Screenshots
+
+
+![App Screenshot](./stacked.png)
+
